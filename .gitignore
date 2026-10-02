@@ -1,0 +1,12 @@
+# datasets are downloaded by the notebook on the first run
+data/*.zip
+data/*.csv
+data/__MACOSX/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
