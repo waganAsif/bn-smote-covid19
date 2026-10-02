@@ -1,0 +1,7 @@
+set,feature,imputed,imputed_as_1
+train,age_60_and_above,100425,0
+train,gender,15268,2687
+internal test,age_60_and_above,25234,0
+internal test,gender,3766,639
+temporal validation,age_60_and_above,408713,0
+temporal validation,gender,87865,3066

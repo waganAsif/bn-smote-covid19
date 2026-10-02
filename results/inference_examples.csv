@@ -1,0 +1,6 @@
+evidence,P(positive) proposed BN (SMOTE),P(positive) BN without SMOTE
+"cough=1, fever=1, shortness_of_breath=1, sore_throat=1, head_ache=1",0.9929168068110256,0.9417902350776046
+"cough=0, fever=0, shortness_of_breath=0, sore_throat=0, head_ache=0",0.4185858355457572,0.0460385158879805
+"cough=1, fever=1, head_ache=1",0.9964444719613832,0.9747159543915536
+"cough=0, fever=0, head_ache=0",0.46794953398378886,0.05389501542996059
+"cough=1, fever=1, sore_throat=1",0.981426487228072,0.8152962356662395

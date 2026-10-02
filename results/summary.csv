@@ -1,0 +1,14 @@
+,value
+development records (ver_006),278848.0
+temporal validation records (ver_0083 after 30 Apr),2453378.0
+train records before SMOTE,219761.0
+train records after SMOTE,416012.0
+internal test records,54941.0
+temporal validation records used,2416058.0
+BN internal accuracy,0.9127063577292004
+BN internal AUC,0.9010744496059964
+BN temporal accuracy,0.9340351100842778
+BN temporal AUC,0.8177109964349438
+BN total time (s),0.178154534199939
+RF total time (s),6.009204706599985
+"P(positive | cough, fever, sore throat) SMOTE BN",0.981426487228072
